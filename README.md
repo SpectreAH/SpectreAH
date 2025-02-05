@@ -98,20 +98,20 @@
 
 <p align="center">
 <a href="https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Advanced-Machine-Learning-Personal-Project&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Advanced-Machine-Learning-Personal-Project&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/SpectreAH/Dimensionality-Reduction-and-Clustering-IRIS-Dataset">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Dimensionality-Reduction-and-Clustering-IRIS-Dataset&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Dimensionality-Reduction-and-Clustering-IRIS-Dataset&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/SpectreAH/Data-Wrangling-Preprocessing-PHD-and-MOOC-Dataset">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Data-Wrangling-Preprocessing-PHD-and-MOOC-Dataset&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Data-Wrangling-Preprocessing-PHD-and-MOOC-Dataset&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/SpectreAH/Text-Mining-and-NLP-with-Doctoral-Dissertations">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Text-Mining-and-NLP-with-Doctoral-Dissertations&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Text-Mining-and-NLP-with-Doctoral-Dissertations&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 </p>
