@@ -13,7 +13,7 @@
         <samp>
                 「 I'm a Data Scientist from <b>France & Indonesia</b> 」
                 <br>
-                「 Focused on improving my programming and machine learning skills</b> 」
+                「 Focused on improving my passion in data analysis and machine learning</b> 」
                 <br>
                 <br>
         </samp>
