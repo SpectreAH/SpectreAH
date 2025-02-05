@@ -18,25 +18,42 @@
                 <br>
         </samp>
         <!-- Technologies -->
+        </a>
+        <!-- R -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="R"
+                        src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
+        </a>    
+        <!-- Python -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+        </a>        
+        <!-- HTML -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+        </a>
+        <!-- CSS -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+        </a>  
         <!-- JavaScript -->
         <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>   
+        <!-- MySQL -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="MySQL"
+                        src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+        </a>    
+        <!-- Pandas -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="Pandas"
+                        src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
         </a>
-        <!-- React -->
-        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- Matplotlib -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="Matplotlib"
+                        src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- Numpy -->
+        <a href="https://github.com/SpectreAH?tab=repositories" target="_blank"><img alt="Numpy"
+                        src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
         </a>
 </p>
 
@@ -55,17 +72,13 @@
         <a href="mailto:alexhuet59@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="#" target="_blank"><img alt="Python"
-                src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-        </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/alexandre-huet-2612b4276/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+                src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff">
         </a>
-        <!-- Youtube -->
+        <!-- Portfolio -->
         <a href="#" target="_blank"><img alt="Portfolio"
-                src="https://img.shields.io/badge/Portfolio%20(Under%20Progress)%20-8A2BE2">
+                src="https://img.shields.io/badge/Portfolio-Under_Construction-red">
         </a>
     </p>
 </details>
