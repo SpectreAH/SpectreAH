@@ -1,13 +1,9 @@
 <!-- February 5, 2025 -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
-
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Alexandre Huet</a></b>
+                <b><a target="_blank" href="https://github.com/SpectreAH">Alexandre Huet</a></b>
         </samp>
 </h3>
 <br>
