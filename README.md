@@ -1,16 +1,108 @@
-## Hi there 👋
+<!-- February 5, 2025 -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!--
-**SpectreAH/SpectreAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-Here are some ideas to get you started:
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+        </samp>
+</h3>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a Data Scientist from <b>France & Indonesia</b> 」
+                <br>
+                「 Focused on improving my programming and machine learning skills</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        <!-- JavaScript -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- React -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        </a>
+        <!-- NextJS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
+                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        </a>
+        <!-- TailwindCSS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
+                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>
+</p>
+
+<!-- Details Section -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Alexandre Huet's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=SpectreAH&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:alexhuet59@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/alexandre-huet-2612b4276/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
+
+<!-- Featured Repositories -->
+#### Featured
+
+<p align="center">
+<a href="https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Advanced-Machine-Learning-Personal-Project&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SpectreAH/Dimensionality-Reduction-and-Clustering-IRIS-Dataset">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Dimensionality-Reduction-and-Clustering-IRIS-Dataset&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/SpectreAH/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SpectreAH/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
