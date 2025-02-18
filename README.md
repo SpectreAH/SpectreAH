@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a Data Scientist from <b>France & Indonesia</b> 」
+                「 I'm a Data Scientist from <b>France</b> 」
                 <br>
                 「 Focused on improving my passion in data analysis and machine learning</b> 」
                 <br>
