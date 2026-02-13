@@ -97,7 +97,7 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project">
+<a href="[https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project](https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project)">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SpectreAH&repo=Advanced-Machine-Learning-Personal-Project&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 <span>&nbsp;</span>
