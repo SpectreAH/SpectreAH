@@ -64,7 +64,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Alexandre Huet's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=SpectreAH&show_icons=true&theme=radical" />
+                src="https://github-readme-stats-three-theta-55.vercel.app/api?username=SpectreAH&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
