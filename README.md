@@ -97,12 +97,12 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/SpectreAH/Gesture-CNN-Classifier">
-<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=Gesture-CNN-Classifier&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
+<a href="https://github.com/SpectreAH/DL_Projet_Expression_Faciales_Huet_MonWatts">
+<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=DL_Projet_Expression_Faciales_Huet_MonWatts&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/SpectreAH/Dimensionality-Reduction-and-Clustering-IRIS-Dataset">
-<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=Dimensionality-Reduction-and-Clustering-IRIS-Dataset&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
+<a href="https://github.com/SpectreAH/Gesture-CNN-Classifier">
+<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=Gesture-CNN-Classifier&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 </p>
 
