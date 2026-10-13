@@ -97,8 +97,8 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/SpectreAH/Advanced-Machine-Learning-Personal-Project">
-<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=Advanced-Machine-Learning-Personal-Project&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
+<a href="https://github.com/SpectreAH/Classical-ML-Case-Studies">
+<img width='49%' align="center"src="https://github-readme-stats-three-theta-55.vercel.app/api/pin/?username=SpectreAH&repo=Classical-ML-Case-Studies&border_color=0B0BFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0B0BFF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/SpectreAH/Dimensionality-Reduction-and-Clustering-IRIS-Dataset">
